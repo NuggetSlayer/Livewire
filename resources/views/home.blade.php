@@ -9,10 +9,9 @@
         <div class="row">
             <div class="col-md-6">
                 @livewire('ticket-form')
-
             </div>
             <div class="col-md-6">
-
+                @livewire('ticket-table')
             </div>
         </div>
     </div>
